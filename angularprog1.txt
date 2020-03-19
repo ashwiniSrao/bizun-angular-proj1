@@ -1,0 +1,10 @@
+1)download nodejs
+2) command prompt 
+node --version
+npm install -g @angular/cli
+ng version
+ng new hello-ashwini
+3) go to vs code
+4)open folder hello-ashwini
+5)command ->ng serve
+6)follow link open localhost:4200
